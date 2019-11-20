@@ -19,8 +19,8 @@ You have to install Hydra, Medusa, Nmap and Ncrack too:
 * On Arch Linux and its distros: <code>sudo pacman -S nmap hydra medusa ncrack</code>
 * On Debian and its distros: <code>sudo apt install nmap hydra medusa ncrack</code>
 
-      git clone https://github.com/GitHackTools/BruteDum
-      cd BruteDum
+      git clone https://github.com/ady08/BruteDums
+      cd BruteDums
       python3 brutedum.py
 
 # Screenshots
